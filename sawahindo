@@ -1,0 +1,2 @@
+UserKey = "LuxvS_D4K7P2M9Q5T8X1Z3L6A0"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/louissxe/Lua/refs/heads/main/LuxvS.lua'))()
